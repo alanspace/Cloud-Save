@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9CA1BAE1-040B-9885-3C02-2A20A3C8AFAA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Game/_Scripts/Services/Save/CloudSaveClient.cs">
+    <Files>
+      <File FileName="Assets/_Game/_Scripts/Services/Save/CloudSaveClient.cs" Line="10" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cloud-Save" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Game" expanded="True">
+                <Node name="_Scripts" expanded="True">
+                  <Node name="Services" expanded="True">
+                    <Node name="Save" expanded="True">
+                      <Node name="CloudSaveClient.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3c4f9630-8e25-4d03-97e1-872cdee6c10e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

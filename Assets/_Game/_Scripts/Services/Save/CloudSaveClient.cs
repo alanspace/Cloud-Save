@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Unity.Services.CloudSave;
+using Unity.Services.Core;
 using UnityEngine;
 
 public class CloudSaveClient : ISaveClient
 {
-    private readonly ICloudSaveDataClient _client = CloudSaveService.Instance.Data;
+    private readonly IDataPlayerClient _client = CloudSaveService.Instance.Data.Player;
 
     public async Task Save(string key, object value)
     {
